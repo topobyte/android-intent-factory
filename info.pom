@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <name>Android Intent Factory</name>
+  <description>Library with utilities for creating common Android intents</description>
+  <url>https://github.com/topobyte/android-intent-factory</url>
+</project>
